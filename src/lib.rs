@@ -3,3 +3,4 @@ pub mod sum {
         println!("adding num");
     }
 }
+pub use sum::add;
