@@ -3,5 +3,7 @@ name = "malik_sum"
 version = "0.1.0"
 authors = ["Mohammad Inzamam Malik <malikasinger1@gmail.com>"]
 edition = "2018"
+description = "some description"
+license = "MIT"
 
 [dependencies]
