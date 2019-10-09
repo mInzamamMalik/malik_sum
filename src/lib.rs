@@ -15,7 +15,7 @@ pub fn multiply(num1: i64, num2: i64) -> i64 {
 
 
 pub fn divide(num1: i64, num2: i64) -> i64 {
-    if (num2 == 0) {
+    if num2 == 0 {
         println!("can not divide with zero");
         0
     } else {
